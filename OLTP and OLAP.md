@@ -14,17 +14,18 @@
 
 <ins>**Examples**</ins> of OLTP applications include online database management systems for financial transactions, online reservation and sales systems, inventory control systems, patient registration systems in hospitals and any other application requiring immediate and efficient processing of individual transactions.
 
-OLAP (Online Analytical Processing) is a technology and approach to advanced data analysis that allows users to explore and derive meaningful information from large data sets from multiple perspectives. Unlike OLTP (Online Transaction Processing), which focuses on real-time transaction management, OLAP focuses on the analysis and discovery of patterns, trends and relationships in data stored in a data warehouse or other multidimensional databases.
+**OLAP (Online Analytical Processing):** OLAP is a technology and approach to advanced data analysis that allows users to explore and derive meaningful information from large data sets from multiple perspectives. Unlike OLTP (Online Transaction Processing), which focuses on real-time transaction management, OLAP focuses on the analysis and discovery of patterns, trends and relationships in data stored in a data warehouse or other multidimensional databases.
 
-OLAP main features:
-Multidimensional data: OLAP organises data into multidimensional structures known as 'OLAP cubes'. These cubes contain data in different dimensions, such as time, product, location and category, allowing users to analyse data from different perspectives.
+**OLAP main features:**
 
-Complex analytical operations: OLAP systems support complex analytical operations such as drill-down/drill-up, filtering, rotation, segmentation and roll-up. These operations allow users to explore data at different levels of detail and gain deeper insights.
+**Multidimensional data:** OLAP organises data into multidimensional structures known as 'OLAP cubes'. These cubes contain data in different dimensions, such as time, product, location and category, allowing users to analyse data from different perspectives.
 
-Data aggregation: OLAP allows summarising and aggregating data to obtain a more general and comprehensive view of the data. This is useful for aggregate analysis such as totals, averages, peaks and troughs.
+**Complex analytical operations:** OLAP systems support complex analytical operations such as drill-down/drill-up, filtering, rotation, segmentation and roll-up. These operations allow users to explore data at different levels of detail and gain deeper insights.
 
-Fast response: OLAP systems are optimised to provide fast responses to complex queries. They use efficient processing and pre-calculation techniques to speed up data analysis and retrieval.
+**Data aggregation:** OLAP allows summarising and aggregating data to obtain a more general and comprehensive view of the data. This is useful for aggregate analysis such as totals, averages, peaks and troughs.
 
-Decision support: OLAP is used to analyse large volumes of business data and provide valuable information for informed decision-making. Users can gain a deeper understanding of trends and patterns, enabling them to make better strategic and tactical decisions.
+**Fast response:** OLAP systems are optimised to provide fast responses to complex queries. They use efficient processing and pre-calculation techniques to speed up data analysis and retrieval.
+
+**Decision support:** OLAP is used to analyse large volumes of business data and provide valuable information for informed decision-making. Users can gain a deeper understanding of trends and patterns, enabling them to make better strategic and tactical decisions.
 
 OLAP applications are wide-ranging and can include business intelligence tools, dashboards, analytical reports and decision support systems. These tools and systems allow analysts and executives to interact with data and explore it in a flexible way to obtain relevant and valuable information for the organisation
